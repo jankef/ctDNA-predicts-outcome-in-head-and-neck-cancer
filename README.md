@@ -16,18 +16,22 @@ Our findings emphasise that quantifying ctDNA during re-radiotherapy may contrib
 
 ## Dependencies
 ### Software
-
+- R >=v4.20
 
 ### R packages
-library(ggplot2)
-library(ggprism)
-library(colorspace)
-library(data.table)
-library(stringr)
-library(readxl)
-library(dplyr)
-library(svglite)
-library(survival)
-library(GGally)
-library(showtext)
-library(tidyverse)
+- ggplot2
+- ggprism
+- colorspace
+- data.table
+- stringr
+- readxl
+- dplyr
+- svglite
+- survival
+- GGally
+- showtext
+- tidyverse
+
+## License
+This project is licensed under the APACHE 2.0 License - see the LICENSE.md file for details.
+
