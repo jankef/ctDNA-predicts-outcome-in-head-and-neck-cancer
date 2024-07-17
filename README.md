@@ -10,15 +10,18 @@ CNV-based ctDNA burden was detected in 8/16 patients and 25/94 plasma samples. T
 Our findings emphasise that quantifying ctDNA during re-radiotherapy may contribute to disease monitoring and personalisation of adjuvant treatment, follow-up intervals, and dose prescription.
 
 
-## Citation
-**To be added**
+## Description
+This repository contains the source code necessary to replicate the key aspects of the analysis presented in the study: Janke et al. 2024 Early circulating tumour DNA changes predict outcomes in head and neck
+cancer patients under re-radiotherapy. This includes:
+1. The calculation of ctDNA-informed CPA scores (ctCPA) scores from WisecondorX v1.2.5 outputs (_bins.bed files)
+2. Recreation of main and supplementary figures presented in the publication
 
 ## Usage
 
 
 ## Dependencies
 ### Software
-- R >=v4.20
+- R version 4.2.0 (or newer)
 
 ### R packages
 - ggplot2
