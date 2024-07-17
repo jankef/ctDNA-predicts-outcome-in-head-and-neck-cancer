@@ -17,7 +17,7 @@ cancer patients under re-radiotherapy. This includes:
 2. Recreation of main and supplementary figures presented in the publication
 
 ## Usage
-
+The 'Main_script.R' script represents a step-by-step guide to calculate ctCPA scores and recreate the figures of this publication. All necessary data and scripts are provided in the 'data' and 'scripts' directories, respectively.
 
 ## Dependencies
 ### Software
