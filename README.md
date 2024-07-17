@@ -10,7 +10,7 @@ CNV-based ctDNA burden was detected in 8/16 patients and 25/94 plasma samples. T
 Our findings emphasise that quantifying ctDNA during re-radiotherapy may contribute to disease monitoring and personalisation of adjuvant treatment, follow-up intervals, and dose prescription.
 
 ## Authors
-Florian Janke1, 2, 3, Florian Stritzke3, 4, 5, 6, Katharina Dvornikovich4, Henrik Franke4, Arlou Kristina Angeles1, 2, 3, Anja Lisa Riediger1, 3, 7, 8, 9, Simon Ogrodnik1, 3, Sabrina Gerhardt1, 3, Sebastian Regnery3, 4, 5, 10, Philipp Schröter3, 4, 5, Lukas Bauer3, 4, 5, Katharina Weusthof3, 4, 5, 10, Magdalena Görtz7, 8, Semi Harrabi3, 4, 5, 6, 10, 11, Klaus Herfarth3, 4, 5, 6, 10, 11, Christian Neelsen12, Daniel Paech12,13, Heinz-Peter Schlemmer12, Amir Abdollahi3, 4, 5, 6, 10, 11, Sebastian Adeberg3, 4, 5, 6, 10, 11, 14, 15, 16, Jürgen Debus3, 4, 5, 6, 10, 11, Holger Sültmann1, 2, 3, 11, Thomas Held3, 4, 5, 6, 10, 11
+Florian Janke<sup>1, 2, 3<sup>, Florian Stritzke3, 4, 5, 6, Katharina Dvornikovich4, Henrik Franke4, Arlou Kristina Angeles1, 2, 3, Anja Lisa Riediger1, 3, 7, 8, 9, Simon Ogrodnik1, 3, Sabrina Gerhardt1, 3, Sebastian Regnery3, 4, 5, 10, Philipp Schröter3, 4, 5, Lukas Bauer3, 4, 5, Katharina Weusthof3, 4, 5, 10, Magdalena Görtz7, 8, Semi Harrabi3, 4, 5, 6, 10, 11, Klaus Herfarth3, 4, 5, 6, 10, 11, Christian Neelsen12, Daniel Paech12,13, Heinz-Peter Schlemmer12, Amir Abdollahi3, 4, 5, 6, 10, 11, Sebastian Adeberg3, 4, 5, 6, 10, 11, 14, 15, 16, Jürgen Debus3, 4, 5, 6, 10, 11, Holger Sültmann1, 2, 3, 11, Thomas Held3, 4, 5, 6, 10, 11
 
 1. Division of Cancer Genome Research, German Cancer Research Center (DKFZ), Heidelberg, Germany
 2. German Center for Lung Research (DZL), TLRC Heidelberg, Heidelberg, Germany
